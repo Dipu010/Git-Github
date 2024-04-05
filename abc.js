@@ -4,4 +4,4 @@ const print=()=>{
     console.log("I am in satwik branch");
 }
 
-print();
+print()
